@@ -230,7 +230,7 @@ html, body {
 }
 .poema {
   position: absolute;
-  top: 40%;
+  top: 50%;
   width: 100%;
   text-align: center;
   color: white;
@@ -242,7 +242,7 @@ html, body {
   text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
 }
 @keyframes poemaMove {
-  0% { top: 10%; opacity: 0.8; }
-  50% { top: 20%; opacity: 1; }
-  100% { top: 10%; opacity: 0.8; }
+  0% { top: 40%; opacity: 0.8; }
+  50% { top: 50%; opacity: 1; }
+  100% { top: 40%; opacity: 0.8; }
 }
